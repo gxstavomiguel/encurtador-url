@@ -1,4 +1,4 @@
-package com.desafio.url.model;
+package url.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

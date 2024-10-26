@@ -1,6 +1,6 @@
-package repository;
+package url.repository;
 
-import com.desafio.url.model.Url;
+import url.model.Url;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;
